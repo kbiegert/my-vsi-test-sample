@@ -1,6 +1,6 @@
 locals {
         image_map = {
-			"us-south" = "r006-b30dcdf4-f632-4149-9335-85ba474c4047"
+			"us-south" = "r006-2cacda9d-ae1b-4de5-b225-0b5fcbc0be01"
 			"us-east" = "r014-b7da49af-b46a-4099-99a4-c183d2d40ea8"
 			"eu-gb" = "r018-256b93dd-1733-4365-85cc-6c29ba3852ac"
 			"eu-de" = "r010-fe86ad75-aae3-4993-bef3-b8ec766a7175"
