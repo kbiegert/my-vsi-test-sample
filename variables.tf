@@ -57,6 +57,6 @@ variable "vsi_security_group" {
 }
 
 variable "TF_VERSION" {
- default = "0.12"
+ default = "0.14"
  description = "The version of the Terraform engine that's used in the Schematics workspace."
 }
